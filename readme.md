@@ -30,9 +30,9 @@ func main() {
 
     cb := circuit_breaker.NewCircuitBreaker(config)
 
-	msg, err := cb.Execute(func() (interface{}, error) {
-		// your actual service call here...
-	})
+    msg, err := cb.Execute(func() (interface{}, error) {
+	// your actual service call here...
+    })
 }
 ```
 
