@@ -45,5 +45,5 @@ MIT. Please see the [license file](LICENSE.md) for more information.
 [link-go]: https://go.dev/
 [link-make]: https://www.gnu.org/software/make/manual/make.html
 [link-inspired]: https://github.com/sony/gobreaker/
-[link-example]: https://github.com/shirokovnv/circuit_breaker/example/main.go
+[link-example]: /example/main.go
 [link-pattern]: https://microservices.io/patterns/reliability/circuit-breaker.html
